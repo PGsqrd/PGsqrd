@@ -1,4 +1,3 @@
-# Peachg
 <div align="center">
   <img height="252" src="https://i0.wp.com/www.intuitivedataanalytics.com/wp-content/uploads/2021/06/use-case-learn-more.jpg?w=950&ssl=1"  />
 </div>
