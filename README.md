@@ -26,7 +26,7 @@ Senior Data Technologist (Business Intelligence Analyst/Database Developer)
 
 ###
 
-<h2 align="left">My ToyBox...oops, I mean ToolBox:</h2>
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
