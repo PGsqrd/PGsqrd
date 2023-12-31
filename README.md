@@ -20,9 +20,9 @@ Senior Data Technologist (Business Intelligence Analyst/Database Developer)
 <br clear="both">
 
 <p align="left">✨ CREED: "Without data, you're just another person with an opinion."<br>
-  <br>📚 I'm CURRENTLY LEARNING:  PYTHON (and eventually want to learn how to play the guitar and juggle)<br>
+  <br>📚 I'M CURRENTLY LEARNING:  PYTHON (and eventually want to learn how to play the guitar and juggle)<br>
   <br>🎯 GOALS:<br>In a Parallel Universe - To make unknown discoveries and major paleontological find by digging in dirt and have a dinosaur named after me<br> In Our Universe - To make unknown discoveries and contribute business insights by digging into data and ultimately enhance productivity<br>
-  <br>🎲 FUN FACT: ...I landed my first job by sending the CEO a random email. Ok, truth is, it was my Dad and he told me to stop goofing around and finish my homework. And be ready to go to the print shop in the morning for my first day.</p>
+  <br>🎲 FUN FACT:  I landed my first job by sending the CEO a random email. Ok, truth is, it was my Dad and he told me to stop goofing around and finish my homework. And be ready to go to the print shop in the morning for my first day.</p>
 
 ###
 
